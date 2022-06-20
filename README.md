@@ -1,7 +1,7 @@
 # Hey there! I am Aditya Keshan
 
 - 👀 I’m interested in Programming and Development
-- 🌱 I’m currently learning Algorithms and Focusing on Web Devleopment
+- 🌱 I’m currently learning Algorithms and Focusing on Web Development
 - 😍 Ask me about Flutter, Android and AWS
 - 💞️ I’m looking to collaborate on any type of project with helps me develop new ideas
 - 📫 How to reach me : Reach me through Twitter @aditya_keshan
